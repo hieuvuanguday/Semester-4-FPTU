@@ -26,8 +26,6 @@ The repository is organized into folders based on the subjects and practical pro
 ## How to Use This Repository
 
 Clone the repository:
-
-```bash
 git clone https://github.com/hieuvuanguday/Semester-4-FPTU.git
 Explore the folders based on the subject or area of interest. Each project and assignment may include its own `README.md` with setup instructions, file structure, and usage guidelines.
 
